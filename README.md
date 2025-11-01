@@ -1,2 +1,22 @@
-# projeto-anjos-de-patas
-Site da ONG fictícia Anjos de Patas – adoção, resgate e amor pelos animais.
+# 🐾 Projeto Anjos de Patas
+
+Este é um projeto acadêmico desenvolvido para o 1º semestre do curso de Análise e Desenvolvimento de Sistemas. O site é uma página institucional fictícia para uma ONG de resgate animal chamada "Anjos de Patas".
+
+## 🚀 Tecnologias Utilizadas
+
+* **HTML5:** Para a estrutura e semântica do conteúdo.
+* **CSS3:** Para estilização, layout (Flexbox e Grid) e responsividade.
+* **JavaScript (ES6+):** Para interatividade e validação dinâmica do formulário de cadastro.
+
+## ✨ Funcionalidades
+
+* Página Inicial com a missão, visão e valores da ONG.
+* Página de Cadastro com validação de formulário em tempo real via JavaScript.
+* Design responsivo que se adapta a telemóveis e desktops.
+* Implementação de conceitos básicos de acessibilidade (WCAG), como contraste de cor e navegação por teclado.
+
+## 🏃‍♂️ Como Executar
+
+Este projeto é composto apenas por ficheiros estáticos. Para executá-lo:
+1.  Clone este repositório (ou descarregue o ZIP).
+2.  Abra o ficheiro `index.html` em qualquer navegador web.
