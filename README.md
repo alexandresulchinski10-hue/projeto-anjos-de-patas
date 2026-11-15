@@ -19,3 +19,10 @@ O Anjos de Patas é um sistema web desenvolvido para uma ONG de proteção anima
 
 ## Como executar
 Abra o arquivo index.html em um navegador para visualizar o sistema.
+## Revisão técnica do MVP
+
+- Melhorada a acessibilidade na validação dos formulários.
+- Adicionado o atributo aria-invalid para identificar campos inválidos.
+- Implementada a remoção das mensagens de erro após a correção.
+- Executados testes automatizados com Node.js.
+- Todos os 6 testes foram aprovados.
